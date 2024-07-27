@@ -1,0 +1,4 @@
+1. Bagaimana Profil Demografis Pelanggan dan Pengaruhnya Terhadap Pola Pembelian?
+2. Produk Apa yang Paling Laris dan Apa Faktor yang Mempengaruhinya?
+3. Bagaimana Kinerja Penjual Berdasarkan Wilayah dan Kategori Produk?
+4. Apa Faktor yang Mempengaruhi Kepuasan Pelanggan dan Bagaimana Hal Ini Mempengaruhi Loyalitas Pelanggan?
